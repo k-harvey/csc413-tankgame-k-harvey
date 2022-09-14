@@ -4,7 +4,7 @@
 | Student Information |                |
 |:-------------------:|----------------|
 |  Student Name       |   Kyle Harvey  |
-|  Student Email      |   kharvey1@mail.sfsu.edu   |
+|  Student Email      |                |
 
 ## src Folder Purpose 
 src folder is to be used to store source code only.
